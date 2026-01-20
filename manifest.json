@@ -4,10 +4,4 @@
   "manifest_version": 1,
 
   "entry": "index.html",
-
-  "permissions": [
-    {
-      "name": "TOKEN_CONTEXT_MENU"
-    }
-  ]
 }
