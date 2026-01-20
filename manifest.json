@@ -5,7 +5,9 @@
 
   "entry": "index.html",
 
-  "permissions": {
-    "TOKEN_CONTEXT_MENU": {}
-  }
+  "permissions": [
+    {
+      "name": "TOKEN_CONTEXT_MENU"
+    }
+  ]
 }
