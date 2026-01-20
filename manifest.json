@@ -2,6 +2,9 @@
   "name": "combat helper",
   "version": "1.0.0",
   "manifest_version": 1,
-
-  "entry": "index.html"
-}
+ "permissions": [
+        {
+            "name": "clipboard-write",
+            "reason": "copying the dddice room url for sharing with others"
+        }
+    ]}
