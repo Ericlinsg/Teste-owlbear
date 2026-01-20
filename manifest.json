@@ -1,13 +1,9 @@
 {
   "manifest_version": 1,
   "name": "Combat Helper",
-  "version": "1.0.0",
+  "version": 1,
   "description": "Extensão para rolagem de ataque e dano com HP e AC no Owlbear Rodeo.",
   "author": "Eric Lins",
-
   "entry": "index.html",
-
-  "permissions": [
-    "TOKEN_CONTEXT_MENU"
-  ]
+  "permissions": ["TOKEN_CONTEXT_MENU"]
 }
