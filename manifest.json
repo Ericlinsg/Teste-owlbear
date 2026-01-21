@@ -2,7 +2,7 @@
   "name": "Combat Helper",
   "version": "1.0.0",
   "manifest_version": 1,
-  "icon": "/Logo.png",
+  "icon": "/logo.png",
   "action": {
     "title": "Combat Helper",
     "icon": "https://ericlinsg.github.io/Teste-owlbear/icone.png",
