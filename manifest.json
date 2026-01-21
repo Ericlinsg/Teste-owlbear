@@ -1,10 +1,12 @@
 {
-  "name": "comat helper",
+  "name": "Combat Helper",
   "version": "1.0.0",
   "manifest_version": 1,
- "permissions": [
-        {
-            "name": "clipboard-write",
-            "reason": "copying the dddice room url for sharing with others"
-        }
-    ]}
+  "action": {
+    "title": "Combat Helper",
+    "icon": "icon.svg",
+    "popover": "https://ericlinsg.github.io/Owlbear/index.html",
+    "width": 950,
+    "height": 500
+  }
+}
