@@ -4,7 +4,7 @@
   "manifest_version": 1,
   "action": {
     "title": "Combat Helper",
-    "icon": "icon.svg",
+    "icon": "icon.png",
     "popover": "https://ericlinsg.github.io/Owlbear/index.html",
     "width": 950,
     "height": 500
