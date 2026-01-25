@@ -4,8 +4,8 @@
   "manifest_version": 1,
   "action": {
     "title": "HP Bars",
-    "icon": "/icon.png",
-    "popover": "/index.html",
+    "icon": "https://ericlinsg.github.io/Teste-owlbear//icon.png",
+    "popover": "https://ericlinsg.github.io/Teste-owlbear//index.html",
     "width": 300,
     "height": 200
   }
