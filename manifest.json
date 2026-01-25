@@ -1,13 +1,13 @@
 {
-  "name": "Combat Helper",
+  "name": "Fichas",
   "version": "1.0.0",
   "manifest_version": 1,
   "icon": "/logo.png",
   "action": {
-    "title": "Combat Helper",
-    "icon": "https://ericlinsg.github.io/Teste-owlbear/logo.png",
-    "popover": "https://ericlinsg.github.io/Owlbear/index.html",
-    "width": 950,
-    "height": 500
+    "title": "Fichas",
+    "icon": "https://ericlinsg.github.io/Fichas/icone.png",
+    "popover": "https://ericlinsg.github.io/Fichas/index.html",
+    "width": 400,
+    "height": 600
   }
 }
