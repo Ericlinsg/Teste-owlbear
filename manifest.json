@@ -1,13 +1,12 @@
 {
-  "name": "Fichas",
+  "name": "HP Bars",
   "version": "1.0.0",
   "manifest_version": 1,
-  "icon": "/logo.png",
   "action": {
-    "title": "Fichas",
-    "icon": "https://ericlinsg.github.io/Teste-owlbear/logo.png",
-    "popover": "https://ericlinsg.github.io/Teste-owlbear/index.html",
-    "width": 400,
-    "height": 600
+    "title": "HP Bars",
+    "icon": "/icon.png",
+    "popover": "/index.html",
+    "width": 300,
+    "height": 200
   }
 }
