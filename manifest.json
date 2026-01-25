@@ -6,7 +6,7 @@
   "action": {
     "title": "Fichas",
     "icon": "https://ericlinsg.github.io/Teste-owlbear/logo.png",
-    "popover": "https://ericlinsg.github.io/Fichas/index.html",
+    "popover": "https://ericlinsg.github.io/Teste-owlbear/index.html",
     "width": 400,
     "height": 600
   }
